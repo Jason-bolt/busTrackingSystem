@@ -265,6 +265,7 @@ void loop(){
   }else{
     Serial.println("No GPS data!");
   }
+  delay(200);
 }
 
 
